@@ -6,14 +6,14 @@ This project demonstrates **data preprocessing, model training, and deployment**
 ---
 
 ## 🚀 Live Demo  
-👉 [Try the App Here](https://energy-efficiency-model-full-end-to-end-project-kdkdq5anc9gsag.streamlit.app/)  
+👉 [Try the App Here](https://energy-efficiency-model-full-end-to-end-project-7rfawwmnw54yuj.streamlit.app/)  
 
 ---
 
 ## 📷 Screenshots  
 
 🔹 **App Homepage**  
-![App Screenshot](https://your-screenshot-link.com)  
+![App Screenshot](app.png)  
 
 🔹 **Prediction Output**  
 ![Prediction Output](output.png)  
