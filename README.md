@@ -6,7 +6,7 @@ This project demonstrates **data preprocessing, model training, and deployment**
 ---
 
 ## 🚀 Live Demo  
-👉 [Try the App Here](https://your-deployed-app-link.com)  
+👉 [Try the App Here](https://energy-efficiency-model-full-end-to-end-project-kdkdq5anc9gsag.streamlit.app/)  
 
 ---
 
@@ -45,7 +45,7 @@ This project demonstrates **data preprocessing, model training, and deployment**
 
 Clone the repository and install dependencies:  
 
-git clone https://github.com/yourusername/energy-efficiency-app.git
+git clone https://github.com/nk/energy-efficiency-app.git
 cd energy-efficiency-app
 pip install -r requirements.txt
 
